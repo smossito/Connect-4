@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534372997 source:c:\users\sammoss\documents\personal\projects\connect 4\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
